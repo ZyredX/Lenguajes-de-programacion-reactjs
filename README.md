@@ -61,7 +61,7 @@ Cada pestaña permite:
 - Agregar un nuevo elemento mediante un **modal dinámico**.  
 - Editar o eliminar registros con **alertas de confirmación**.  
 
-<img src="img/Mostrarpestañas.jpg" alt="vistaGeneral" width="550">  
+<img src="Img/Mostrarpestañas.jpg" alt="vistaGeneral" width="550">  
 
 ## 🔌 Configuración y ejecución  
 
