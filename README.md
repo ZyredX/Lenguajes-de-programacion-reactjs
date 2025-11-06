@@ -69,7 +69,7 @@ Cada pestaña permite:
 
 abrir Cmd  
 git clone https://github.com/ZyredX/Lenguajes-de-programacion-reactjs.git  
-cd react-vehiculos-motos-crud  
+cd Lenguajes-de-programacion-reactjs 
 
 ### 2️⃣ Instalar dependencias (Tienes que abrir una Terminal en visual studio code)  
 
