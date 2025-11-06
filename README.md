@@ -68,7 +68,7 @@ Cada pestaña permite:
 ### 1️⃣ Clonar el repositorio  
 
 abrir Cmd  
-git clone https://github.com/DanielDev87/vehiculos-front.git  
+git clone https://github.com/ZyredX/Lenguajes-de-programacion-reactjs.git  
 cd react-vehiculos-motos-crud  
 
 ### 2️⃣ Instalar dependencias (Tienes que abrir una Terminal en visual studio code)  
