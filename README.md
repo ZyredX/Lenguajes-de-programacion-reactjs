@@ -75,13 +75,13 @@ cd react-vehiculos-motos-crud
 
 npm install  
 
-<img src="img/installnpm.jpg" alt="install" width="550">  
+<img src="Img/installnpm.jpg" alt="install" width="550">  
 
 ### 3️⃣ Ejecutar la aplicación  
 
 npm run dev  
 
-<img src="img/npmrundev.jpg" alt="RunNpm" width="550">  
+<img src="Img/npmrundev.jpg" alt="RunNpm" width="550">  
 
 En este caso el puerto esta configurado para **http://localhost:5173/**  
 
@@ -105,22 +105,22 @@ Cada registro puede incluir una imagen asociada al vehículo o moto.
 # 📷 Capturas del funcionamiento  
 
 # 🚗 Agregar Vehiculo  
-<img src="img/CrearV.jpg" alt="crear" width="550">  
+<img src="Img/CrearV.jpg" alt="crear" width="550">  
 
 # 🚗 Editar Vehiculo  
-<img src="img/ActuV.jpg" alt="Delete" width="550">  
+<img src="Img/ActuV.jpg" alt="Delete" width="550">  
 
 # 🚗 Eliminar Vehiculo  
-<img src="img/EliminarV.jpg" alt="Delete" width="550">  
+<img src="Img/EliminarV.jpg" alt="Delete" width="550">  
 
 # 🏍️ Agregar Moto  
-<img src="img/CrearM.jpg" alt="crear" width="550">  
+<img src="Img/CrearM.jpg" alt="crear" width="550">  
 
 # 🏍️ Editar Moto  
-<img src="img/ActuM.jpg" alt="Delete" width="550">  
+<img src="Img/ActuM.jpg" alt="Delete" width="550">  
 
 # 🏍️ Eliminar Moto  
-<img src="img/EliminarM.jpg" alt="Delete" width="550">  
+<img src="Img/EliminarM.jpg" alt="Delete" width="550">  
 
 ## 🔑 CREDITOS
 » Este trabajo fue supervisado por Daniel Felipe, quien brindó apoyo constante para que todo funcionara correctamente.
